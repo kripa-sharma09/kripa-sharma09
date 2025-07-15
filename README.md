@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kripa Sharma</h1>
 <h3 align="center">🎓 CSE Student | 💻 Python & Data Science Enthusiast | 🚀 Passionate Learner</h3>
-
+<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kripa-sharma09&label=Profile%20views&color=0e75b6&style=flat" alt="kripa-sharma09" /> </p>
-<h3>👋 About Me</h3>
+<h3>About Me:</h3>
 
 <ul>
   <li>I'm a Computer Science student passionate about coding and problem-solving.</li>
@@ -13,7 +13,7 @@
   <li>Currently sharpening my skills through internships, coding challenges, and collaborations.</li>
   <li>I believe in lifelong learning and growing through every opportunity I take.</li>
 </ul>
-<p>How to reach me : <strong>sharmakripa0909@gmail.com</strong></p>
+<p>📫 How to reach me: <a href="mailto:sharmakripa0909@gmail.com">sharmakripa0909@gmail.com</a></p>
 <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Animated Divider" />
 
 <h3 align="left">Connect with me:</h3>
