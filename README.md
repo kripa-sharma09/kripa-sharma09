@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kripa-sharma09&show_icons=true&locale=en" alt="kripa-sharma09" /></p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
-<h2>🏆 GitHub Trophies</h2>
+<h3>🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kripa-sharma09&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
