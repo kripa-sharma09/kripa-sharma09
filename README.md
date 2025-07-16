@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kripa Sharma</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kripa Sharma
+</h1>
+<!--<h1 align="center">Hi 👋, I'm Kripa Sharma</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-blue" />
+  <img src="https://img.shields.io/badge/Python%20Lover-yellow" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-green" />
+  <img src="https://img.shields.io/badge/Passionate%20Learner-red" />
+</p>
+<!--<h1 align="center">Hi 👋, I'm Kripa Sharma</h1>-->
 <h3 align="center">🎓 CSE Student | 💻 Python & Data Science Enthusiast | 🚀 Passionate Learner</h3>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
