@@ -33,7 +33,7 @@
 <a href="https://fb.com/kripa.sharma.0923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kripa.sharma.0923" height="30" width="40" /></a>
 <a href="https://instagram.com/simply_kripa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simply_kripa_" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sharmakripa0909/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@sharmakripa0909/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kripasharma09<https://www.geeksforgeeks.org/user/sharmakruzwy/>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kripasharma09<https://www.geeksforgeeks.org/user/sharmakruzwy/>" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sharmakruzwy/<https://www.geeksforgeeks.org/user/sharmakruzwy/>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sharmakruzwy/>" height="30" width="40" /></a>
 </p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
