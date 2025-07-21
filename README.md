@@ -56,4 +56,6 @@
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-
+<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
+🌐 Successfully completed *Web Development Course* from [Internshala Trainings]( https://trainings.internshala.com/s/v/3734250/c5056287
+) — gained hands-on experience in HTML, CSS, JS, and Bootstrap!
