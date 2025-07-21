@@ -32,8 +32,9 @@
 <a href="https://kaggle.com/kripasharma09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kripasharma09" height="30" width="40" /></a>
 <a href="https://fb.com/kripa.sharma.0923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kripa.sharma.0923" height="30" width="40" /></a>
 <a href="https://instagram.com/simply_kripa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simply_kripa_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sharmakripa0909/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@sharmakripa0909/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/sharmakruzwy/<https://www.geeksforgeeks.org/user/sharmakruzwy/>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sharmakruzwy/>" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kripa_sharma09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kripa_sharma09" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sharmakripa0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sharmakripa0909" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/(<sharmakruzwy>/https://www.geeksforgeeks.org/user/sharmakruzwy/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<sharmakruzwy>/https://www.geeksforgeeks.org/user/sharmakruzwy/)" height="30" width="40" /></a>
 </p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
@@ -46,10 +47,8 @@
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
 <h3>🏆 GitHub Trophies</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kripa-sharma09" alt="kripa-sharma09" /></a> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kripa-sharma09&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kripa-sharma09&" alt="kripa-sharma09" /></p>
 
@@ -59,3 +58,4 @@
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 🌐 Successfully completed *Web Development Course* from [Internshala Trainings]( https://trainings.internshala.com/s/v/3734250/c5056287
 ) — gained hands-on experience in HTML, CSS, JS, and Bootstrap!
+
