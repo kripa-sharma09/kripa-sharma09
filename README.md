@@ -24,6 +24,7 @@
   <li>I believe in lifelong learning and growing through every opportunity I take.</li>
 </ul>
 <p>📫 How to reach me: <a href="mailto:sharmakripa0909@gmail.com">sharmakripa0909@gmail.com</a></p>
+
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
 <h3 align="left">Connect with me:</h3>
@@ -36,6 +37,9 @@
 <a href="https://www.hackerearth.com/@sharmakripa0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sharmakripa0909" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/(<sharmakruzwy>/https://www.geeksforgeeks.org/user/sharmakruzwy/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<sharmakruzwy>/https://www.geeksforgeeks.org/user/sharmakruzwy/)" height="30" width="40" /></a>
 </p>
+<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
+🌐 Successfully completed *Web Development Course* from [Internshala Trainings]( https://trainings.internshala.com/s/v/3734250/c5056287
+) — gained hands-on experience in HTML, CSS, JS, and Bootstrap!
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,6 +60,5 @@
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-🌐 Successfully completed *Web Development Course* from [Internshala Trainings]( https://trainings.internshala.com/s/v/3734250/c5056287
-) — gained hands-on experience in HTML, CSS, JS, and Bootstrap!
+
 
