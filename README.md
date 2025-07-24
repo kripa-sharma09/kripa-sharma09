@@ -38,8 +38,11 @@
 <a href="https://auth.geeksforgeeks.org/user/<sharmakruzwy>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<sharmakruzwy>" height="30" width="40" /></a>
 </p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-🌐 Successfully completed *Web Development Course* from [Internshala Trainings]( https://trainings.internshala.com/s/v/3734250/c5056287
-) — gained hands-on experience in HTML, CSS, JS, and Bootstrap!
+
+![Web Development Course Completed](https://img.shields.io/badge/Web%20Development-Course%20Completed-blueviolet?style=for-the-badge&logo=html5)
+![CodSoft Internship Completed](https://img.shields.io/badge/CodSoft%20Internship-Completed-29A71A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu... (simplified logo))
+![CodeAlpha Internship Completed](https://img.shields.io/badge/CodeAlpha%20Internship-Completed-2E86C1?style=for-the-badge&logo=github)
+
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
 <h3 align="left">Languages and Tools:</h3>
