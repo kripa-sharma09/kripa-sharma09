@@ -39,9 +39,9 @@
 </p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
-![Web Development Course Completed](https://img.shields.io/badge/Web%20Development-Course%20Completed-blueviolet?style=for-the-badge&logo=html5)
+<!--![Web Development Course Completed](https://img.shields.io/badge/Web%20Development-Course%20Completed-blueviolet?style=for-the-badge&logo=html5)
 ![CodSoft Internship Completed](https://img.shields.io/badge/CodSoft%20Internship-Completed-29A71A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu... (simplified logo))
-![CodeAlpha Internship Completed](https://img.shields.io/badge/CodeAlpha%20Internship-Completed-2E86C1?style=for-the-badge&logo=github)
+![CodeAlpha Internship Completed](https://img.shields.io/badge/CodeAlpha%20Internship-Completed-2E86C1?style=for-the-badge&logo=github) -->
 
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
