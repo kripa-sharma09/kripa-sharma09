@@ -20,7 +20,7 @@
   <li>I'm a Computer Science student passionate about coding and problem-solving.</li>
   <li>I enjoy exploring Data Science, Machine Learning, and building real-world projects.</li>
   <li>Python is my go-to language for both learning and creating impactful solutions.</li>
-  <li>Currently sharpening my skills through internships, coding challenges, and collaborations.</li>
+  <li>Currently sharpening my skills through internships and coding challenges.</li>
   <li>I believe in lifelong learning and growing through every opportunity I take.</li>
 </ul>
 <p>📫 How to reach me: <a href="mailto:sharmakripa0909@gmail.com">sharmakripa0909@gmail.com</a></p>
