@@ -41,16 +41,16 @@
 
 <!--![Web Development Course Completed](https://img.shields.io/badge/Web%20Development-Course%20Completed-blueviolet?style=for-the-badge&logo=html5)
 ![CodSoft Internship Completed](https://img.shields.io/badge/CodSoft%20Internship-Completed-29A71A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu... (simplified logo))
-![CodeAlpha Internship Completed](https://img.shields.io/badge/CodeAlpha%20Internship-Completed-2E86C1?style=for-the-badge&logo=github) -->
+![CodeAlpha Internship Completed](https://img.shields.io/badge/CodeAlpha%20Internship-Completed-2E86C1?style=for-the-badge&logo=github) 
 
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
+!<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" /> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kripa-sharma09&show_icons=true&locale=en&layout=compact" alt="kripa-sharma09" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kripa-sharma09&show_icons=true&locale=en&layout=compact" alt="kripa-sharma09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kripa-sharma09&show_icons=true&locale=en" alt="kripa-sharma09" /></p>
+<!--!<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kripa-sharma09&show_icons=true&locale=en" alt="kripa-sharma09" /></p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
 <h3>🏆 GitHub Trophies</h3>
@@ -59,7 +59,7 @@
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kripa-sharma09&" alt="kripa-sharma09" /></p>
 
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
+<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />-->
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
