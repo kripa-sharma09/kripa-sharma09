@@ -111,6 +111,7 @@
 - **AI Music Generation:** Explored machine learning and generative AI techniques for music composition
 - **Impact:** Strengthened Python expertise, deepened understanding of AI/ML workflows, and mastered full development lifecycle from ideation to deployment
 </details>
+
 ---
 
 ## 🎖️ Achievements & Awards
