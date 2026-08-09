@@ -58,7 +58,7 @@
             <br>Java
         </td>
         <td align="center" width="90">
-            <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" width="55" height="55" />
+            <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/opencv-icon-animated%20(1).svg" alt="OpenCV" width="55" height="55" />
             <br>OpenCV
         </td>
         <td align="center" width="90">
