@@ -58,8 +58,8 @@
             <br>Java
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-            <br>JavaScript
+            <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" width="55" height="55" />
+            <br>OpenCV
         </td>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="55" height="55" />
