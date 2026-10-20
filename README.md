@@ -30,12 +30,10 @@
 <a href="https://www.hackerearth.com/@sharmakripa0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sharmakripa0909" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<sharmakruzwy>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<sharmakruzwy>" height="30" width="40" /></a>
 </p>
+<!--
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-
-
-
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -119,15 +117,6 @@ Tech Stack: Python | OpenCV | YOLOv8 | Pascal VOC | Data Annotation | Image Proc
 - **Impact:** Strengthened Python expertise, deepened understanding of AI/ML workflows, and mastered full development lifecycle from ideation to deployment
 </details>
 
-## Certifications
-<a href="[https://learn.microsoft.com/certifications/azure-ai-fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KripasharmaM-6948/D6C0C6EA7C6D7656?sharingId=ECC9B894F36B73F1)" target="_blank">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure AI Fundamentals" height = "100/>
-</a>
-    
-Microsoft Certified: Azure AI Fundamentals	Microsoft	AI-901	Oct 2026
-    
-Skills covered: AI workloads and considerations • Generative AI • Microsoft Foundry • Computer Vision • Speech • Responsible AI
-
 ## 🎖️ Achievements & Awards
  
 | 🌟 | Achievement | Details |
@@ -147,6 +136,15 @@ Skills covered: AI workloads and considerations • Generative AI • Microsoft 
 | **B.E. Computer Science & Engineering** | Kingston Engineering College | 2023-2027 | 8.32 CGPA |
 | **HSC** | Swamy Vivekananda Matric Hr. Sec. School | 2023 | 89.66% |
 | **SSLC** | Swamy Vivekananda Matric Hr. Sec. School | 2021 | 85.00% |
+
+## Certifications
+<a href="[https://learn.microsoft.com/certifications/azure-ai-fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KripasharmaM-6948/D6C0C6EA7C6D7656?sharingId=ECC9B894F36B73F1)" target="_blank">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure AI Fundamentals" height = "100/>
+</a>
+    
+Microsoft Certified: Azure AI Fundamentals	Microsoft	AI-901	Oct 2026
+    
+Skills covered: AI workloads and considerations • Generative AI • Microsoft Foundry • Computer Vision • Speech • Responsible AI
 
 
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
