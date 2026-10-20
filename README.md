@@ -1,14 +1,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kripa Sharma
 </h1>
-<!--<h1 align="center">Hi 👋, I'm Kripa Sharma</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-blue" />
-  <img src="https://img.shields.io/badge/Python%20Lover-yellow" />
-  <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-green" />
-  <img src="https://img.shields.io/badge/Passionate%20Learner-red" />
-</p>
-<!--<h1 align="center">Hi 👋, I'm Kripa Sharma</h1>-->
+
 <h3 align="center">🎓 CSE Student | 💻 Python & Web Development Enthusiast | 🚀 Passionate Learner</h3>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -39,11 +32,9 @@
 </p>
 <img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
-<!--![Web Development Course Completed](https://img.shields.io/badge/Web%20Development-Course%20Completed-blueviolet?style=for-the-badge&logo=html5)
-![CodSoft Internship Completed](https://img.shields.io/badge/CodSoft%20Internship-Completed-29A71A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu... (simplified logo))
-![CodeAlpha Internship Completed](https://img.shields.io/badge/CodeAlpha%20Internship-Completed-2E86C1?style=for-the-badge&logo=github) 
 
-!<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" /> -->
+
+<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -94,14 +85,30 @@
     </tr>
 </table>
 
-<!--<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-<!--<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>-->
 
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-
----
 ## 💼 Professional Experience
- 
+<details>
+<summary><strong>🦺 YOLOv8 Uniform Compliance Detection</strong></summary>
+
+Tech Stack: Python | Ultralytics YOLOv8 | PyTorch | OpenCV | GitHub Repo
+
+	•	Custom Model: Trained a YOLOv8n object detection model to classify Proper Uniform and Improper-Uniform, outputting bounding boxes, class labels, and confidence scores
+	•	Data Pipeline: Converted Pascal VOC XML annotations to YOLO format on a dataset of 2,868 training, 200 validation, and 99 test images
+	•	Results: Reached 0.854 precision, 0.753 recall, and 0.861 mAP@50 on the test set after 5 epochs of training
+	•	Inference: Built a command-line prediction script for batch and single-image detection
+</details>
+
+<details>
+<summary><strong>🚀 Dwarfeye Labs • AI/ML Developer Intern • Remote, Chennai • Jun 2026 - Jul 2026</strong></summary>
+
+Tech Stack: Python | OpenCV | YOLOv8 | Pascal VOC | Data Annotation | Image Processing
+
+	•	Data Annotation: Annotated 10,000+ video frames using Pascal VOC for real-world Computer Vision applications
+	•	Surveillance Datasets: Contributed to datasets for footfall analysis, cash lifting, and zone analysis using surveillance video data
+	•	Video Analytics: Worked with multiple real-world video datasets for applications including footfall, zone, and object analysis
+	•	Impact: Gained hands-on experience with Python, OpenCV, YOLOv8, video processing, object detection, and data annotation
+</details>
+
 <details>
 <summary><strong>🚀 CodeAlpha • Virtual Intern • Jul 2025 - Aug 2025</strong></summary>
 > **Tech Stack:** Python | Flask | Pandas | Git | GitHub | HTML/CSS | Tkinter | Keras | Streamlit | gTTS | Translator API
@@ -112,7 +119,15 @@
 - **Impact:** Strengthened Python expertise, deepened understanding of AI/ML workflows, and mastered full development lifecycle from ideation to deployment
 </details>
 
----
+## Certifications
+
+<a href="[https://learn.microsoft.com/certifications/azure-ai-fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KripasharmaM-6948/D6C0C6EA7C6D7656?sharingId=ECC9B894F36B73F1)" target="_blank">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure AI Fundamentals" height = "100/>
+</a>
+    
+Microsoft Certified: Azure AI Fundamentals	Microsoft	AI-901	Oct 2026
+    
+Skills covered: AI workloads and considerations • Generative AI • Microsoft Foundry • Computer Vision • Speech • Responsible AI
 
 ## 🎖️ Achievements & Awards
  
@@ -123,32 +138,18 @@
 | 📱 | **NASSCOM Digital 101** | Digital literacy and cloud awareness certification |
 | 🌐 | **Web Development Certified** | Internshala Web Development certification |
 | ☁️ | **Infosys Cloud & Java Certified** | Introduction to Cloud & Java for Beginners credentials |
-| 📊 | **CGPA 8.40** | Consistent academic excellence at Kingston Engineering College |
+| 📊 | **CGPA 8.32** | Consistent academic excellence at Kingston Engineering College |
  
 ---
 ## 📚 Education
  
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| **B.E. Computer Science & Engineering** | Kingston Engineering College | 2023-2027 | 8.40 CGPA |
+| **B.E. Computer Science & Engineering** | Kingston Engineering College | 2023-2027 | 8.32 CGPA |
 | **HSC** | Swamy Vivekananda Matric Hr. Sec. School | 2023 | 89.66% |
 | **SSLC** | Swamy Vivekananda Matric Hr. Sec. School | 2021 | 85.00% |
  
----
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kripa-sharma09&show_icons=true&locale=en&layout=compact" alt="kripa-sharma09" /></p>
 
-<!--!<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kripa-sharma09&show_icons=true&locale=en" alt="kripa-sharma09" /></p>
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-
-<h3>🏆 GitHub Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kripa-sharma09" alt="kripa-sharma09" /></a> </p>
-
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kripa-sharma09&" alt="kripa-sharma09" /></p>
-
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />-->
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 
