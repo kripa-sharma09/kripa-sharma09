@@ -120,7 +120,6 @@ Tech Stack: Python | OpenCV | YOLOv8 | Pascal VOC | Data Annotation | Image Proc
 </details>
 
 ## Certifications
-
 <a href="[https://learn.microsoft.com/certifications/azure-ai-fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KripasharmaM-6948/D6C0C6EA7C6D7656?sharingId=ECC9B894F36B73F1)" target="_blank">
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure AI Fundamentals" height = "100/>
 </a>
@@ -140,7 +139,7 @@ Skills covered: AI workloads and considerations • Generative AI • Microsoft 
 | ☁️ | **Infosys Cloud & Java Certified** | Introduction to Cloud & Java for Beginners credentials |
 | 📊 | **CGPA 8.32** | Consistent academic excellence at Kingston Engineering College |
  
----
+
 ## 📚 Education
  
 | Degree | Institution | Year | Score |
@@ -148,7 +147,7 @@ Skills covered: AI workloads and considerations • Generative AI • Microsoft 
 | **B.E. Computer Science & Engineering** | Kingston Engineering College | 2023-2027 | 8.32 CGPA |
 | **HSC** | Swamy Vivekananda Matric Hr. Sec. School | 2023 | 89.66% |
 | **SSLC** | Swamy Vivekananda Matric Hr. Sec. School | 2021 | 85.00% |
- 
+
 
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
