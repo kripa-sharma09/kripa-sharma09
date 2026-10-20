@@ -17,8 +17,6 @@
 </ul>
 <p>📫 How to reach me: <a href="mailto:sharmakripa0909@gmail.com">sharmakripa0909@gmail.com</a></p>
 
-<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kripa-sharma-m09092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kripa-sharma-m09092" height="30" width="40" /></a>
@@ -162,11 +160,12 @@
 | **SSLC** | Swamy Vivekananda Matric Hr. Sec. School | 2021 | 85.00% |
 
 ---
-
-<p align="center">
+<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kripa-sharma09/kripa-sharma09/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kripa-sharma09/kripa-sharma09/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kripa-sharma09/kripa-sharma09/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<img src="https://github.com/kripa-sharma09/kripa-sharma09/blob/main/Animated_divider.gif?raw=true" alt="Animated Divider" />
